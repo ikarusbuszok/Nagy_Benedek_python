@@ -1,0 +1,2 @@
+import szam
+szam.elagazas()
